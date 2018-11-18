@@ -1,0 +1,8 @@
+﻿  Konto_einkommen.cpp
+Grundlagen der Vererbung.obj : error LNK2005: "int * zWahl" (?zWahl@@3PAHA) ist bereits in Eingabe.obj definiert.
+Grundlagen der Vererbung.obj : error LNK2005: "int * zWert" (?zWert@@3PAHA) ist bereits in Eingabe.obj definiert.
+Eingabe.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""int wahl" (?wahl@@3HA)".
+Grundlagen der Vererbung.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""int wahl" (?wahl@@3HA)".
+Eingabe.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""int wert" (?wert@@3HA)".
+Grundlagen der Vererbung.obj : error LNK2001: Nicht aufgelöstes externes Symbol ""int wert" (?wert@@3HA)".
+C:\Users\Reinhard Kathan\source\repos\Grundlagen der Vererbung\Debug\Grundlagen der Vererbung.exe : fatal error LNK1120: 2 nicht aufgelöste Externe
